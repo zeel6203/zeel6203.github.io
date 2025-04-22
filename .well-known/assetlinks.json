@@ -1,10 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.goroutedeeplink",
-    "sha256_cert_fingerprints": [
-      "84:94:FD:CB:9E:64:8B:C2:15:44:81:1D:3C:68:1D:98:C9:3A:E9:BC:CA:AF:4E:A5:05:12:95:73:01:18:42:74",
-    ]
-  }
+  "target" : { "namespace": "android_app", "package_name": "com.example.goroutedeeplink",
+               "sha256_cert_fingerprints": ["84:94:FD:CB:9E:64:8B:C2:15:44:81:1D:3C:68:1D:98:C9:3A:E9:BC:CA:AF:4E:A5:05:12:95:73:01:18:42:74"] }
 }]
