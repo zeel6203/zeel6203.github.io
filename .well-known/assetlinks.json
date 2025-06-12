@@ -1,14 +1,6 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.goroutedeeplink",
-               "sha256_cert_fingerprints": ["84:94:FD:CB:9E:64:8B:C2:15:44:81:1D:3C:68:1D:98:C9:3A:E9:BC:CA:AF:4E:A5:05:12:95:73:01:18:42:74"] }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.canopas.cloud_gallery",
-               "sha256_cert_fingerprints": ["FC:60:24:BA:EC:EE:D3:5E:13:4C:40:56:4A:AE:79:71:85:AB:68:95:BC:7F:6B:42:C6:BD:6B:9E:07:DD:8D:0A"] }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.hkapps.kirabox",
+  "target" : { "namespace": "android_app", "package_name": "com.hkyapps.growbox",
                "sha256_cert_fingerprints": ["84:94:FD:CB:9E:64:8B:C2:15:44:81:1D:3C:68:1D:98:C9:3A:E9:BC:CA:AF:4E:A5:05:12:95:73:01:18:42:74"] }
 },{
   "relation": ["delegate_permission/common.handle_all_urls"],
