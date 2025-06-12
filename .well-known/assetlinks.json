@@ -10,4 +10,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.hkapps.kirabox",
                "sha256_cert_fingerprints": ["84:94:FD:CB:9E:64:8B:C2:15:44:81:1D:3C:68:1D:98:C9:3A:E9:BC:CA:AF:4E:A5:05:12:95:73:01:18:42:74"] }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.hkyapps.growbox",
+               "sha256_cert_fingerprints": ["F3:F8:0E:E0:76:42:33:28:91:62:52:C2:A9:71:BA:F5:53:A5:F1:88:7E:64:62:35:72:F1:33:79:62:1B:EF:19"] }
 }]
